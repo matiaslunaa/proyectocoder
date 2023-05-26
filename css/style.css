@@ -1,3 +1,5 @@
+/*======================================= Index =========================================== */
+
 * {
     margin: 0;
     padding: 0;
@@ -301,14 +303,26 @@ h3 {
 
 /*=============== SECCION DE RANGOS ===============================*/
 
-.rangos{
-    background-image: url(../img/rangos.png);
-    height: 99.5vh;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+.contenedorz{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    height: 400px;
+    margin: 90px;
 }
 
+.h2rango{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textorangos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    margin: 25px;
+    color: white;
+}
 
 /*======================== SECCION DE CONTACTO ==========================================*/
 
@@ -325,3 +339,4 @@ h3 {
     text-align: center;
     margin: 10px;
 }
+
