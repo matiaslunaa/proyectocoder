@@ -1,0 +1,327 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    padding: 15px;
+    background-color: black;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    background-size: contain;
+}
+
+
+.nav-list {
+    display: flex;
+    gap: 70px;
+}
+
+.div-fondo {
+    background-color: black;
+}
+
+.linklogo {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.colortex {
+    color: white;
+}
+
+footer {
+    background-color: black;
+    display: flex;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: auto;
+    text-align: center;
+    justify-content: center;
+    height: 20vh;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin: 30px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.tamfoto {
+    height: 300px;
+    width: 500px;
+}
+
+.tamfoto2 {
+    height: 350px;
+    width: 600px;
+}
+
+.videotam {
+    display: flex;
+    height: 84.5vh;
+}
+
+.flex-cont {
+    margin: 50px;
+    display: flex;
+    gap: 150px;
+    justify-items: center;
+}
+
+.tipoletra {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.mapage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*======================= SECCION DE AGENTES ====================================================*/
+
+.titulopage{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    padding: 5px;
+}
+
+.fondo1{
+    background-image: url(../img/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.c1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0px;
+}
+
+.c1 img{
+    width: 100%;
+    height: 92%;
+}
+
+.c2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 30px;
+}
+
+.c2 img{
+    width: 100%;
+    height: 92%;
+}
+
+.c3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 30px;
+}
+
+.c3 img{
+    width: 100%;
+    height: 92%;
+}
+
+.c4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 30px;
+}
+
+.c4 img{
+    width: 100%;
+    height: 92%;
+}
+
+.c5{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 30px;
+}
+
+.c5 img{
+    width: 100%;
+    height: 92%;
+}
+
+.c6{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 30px;
+}
+
+.c6 img{
+    width: 100%;
+    height: 92%;
+}
+
+.c7{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 40px;
+}
+
+.c7 img{
+    width: 100%;
+    height: 92%;
+}
+
+.caja{
+    justify-items: center;
+    width: 400px;
+    height: 250px;
+    margin: 98px;
+    color: red;
+    gap: 20px;
+    justify-content: center;
+}
+
+.colorcaja{
+    color: white;
+    text-align: start;
+    justify-content: start;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.hcol{
+    color: violet;
+    font-size: 20px;
+    text-align: center;
+}
+
+.hcol2{
+    color: violet;
+    margin: 0%;
+    font-size: 35px;
+}
+
+
+/*===================================== SECCION DE MAPAS =================================================*/
+
+.fondo2{
+    background-image: url(../img/fondo2.png);
+}
+
+.sec1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 50px;
+    color: white;
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.sec1 img{
+    width: 100%;
+    height: 70%;
+}
+
+.sec2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+    margin: 50px;
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.sec2 img{
+    width: 100%;
+    height: 70%;
+}
+
+.se{
+    width: 500px;
+    height: 300px;
+    margin: 15px;
+    gap: 30px;
+    justify-content: center;
+}
+
+
+/*=============== SECCION DE RANGOS ===============================*/
+
+.rangos{
+    background-image: url(../img/rangos.png);
+    height: 99.5vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+/*======================== SECCION DE CONTACTO ==========================================*/
+
+.contact{
+    margin: 20px;
+    font-size: 90px;
+    color: red;
+}
+
+.contacto{
+    color: white;
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 10px;
+}
