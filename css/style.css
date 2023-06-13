@@ -156,6 +156,9 @@ h3 {
     width: 100%;
     height: 92%;
     box-shadow: 0px 0px 5px 4px crimson;
+    &:hover{
+        transform: scale(1.1)
+    }
 }
 
 .c2{
@@ -169,6 +172,9 @@ h3 {
     width: 100%;
     height: 92%;
     box-shadow: 0px 0px 5px 4px crimson;
+    &:hover{
+        transform: scale(1.1)
+    }
 }
 
 .c3{
@@ -182,6 +188,9 @@ h3 {
     width: 100%;
     height: 92%;
     box-shadow: 0px 0px 5px 4px crimson;
+    &:hover{
+        transform: scale(1.1)
+    }
 }
 
 .c4{
@@ -195,6 +204,9 @@ h3 {
     width: 100%;
     height: 92%;
     box-shadow: 0px 0px 5px 4px crimson;
+    &:hover{
+        transform: scale(1.1)
+    }
 }
 
 .c5{
@@ -208,6 +220,9 @@ h3 {
     width: 100%;
     height: 92%;
     box-shadow: 0px 0px 5px 4px crimson;
+    &:hover{
+        transform: scale(1.1)
+    }
 }
 
 .c6{
@@ -221,6 +236,9 @@ h3 {
     width: 100%;
     height: 92%;
     box-shadow: 0px 0px 5px 4px crimson;
+    &:hover{
+        transform: scale(1.1)
+    }
 }
 
 .c7{
@@ -234,6 +252,9 @@ h3 {
     width: 100%;
     height: 92%;
     box-shadow: 0px 0px 5px 4px crimson;
+    &:hover{
+        transform: scale(1.1)
+    }
 }
 
 .caja{
@@ -291,6 +312,9 @@ h3 {
     width: 100%;
     height: 70%;
     box-shadow: 0px 0px 3px 2px black;
+    &:hover{
+        transform: scale(1.1)
+    }
 }
 
 .sec2{
@@ -309,6 +333,9 @@ h3 {
     width: 100%;
     height: 70%;
     box-shadow: 0px 0px 3px 2px black;
+    &:hover{
+        transform: scale(1.1)
+    }
 }
 
 .se{
